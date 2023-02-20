@@ -1,0 +1,493 @@
+.links{
+    font-family:sans-serif;
+    font-size: 17px;
+}
+.on1 {
+    font-size: 15px;
+    padding-left: 25px;
+}
+.grid-container {
+    display: grid;
+    gap: 10px;
+  }
+  
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+  }
+  
+  .item1 {
+    grid-column: 1 / span 2;
+    grid-row: 1/span 3;
+    height: 30rem;
+  }
+  
+  .item2 {
+    grid-column: 3;
+    grid-row: 1;
+    height: 15rem;
+  }
+  
+  .item3 {
+    grid-column: 4;
+    grid-row: 1;
+    height: 15rem;
+  
+  }
+  .item4 {
+    grid-row: 2;
+    grid-column: 3;
+    height: 14.4rem;
+  }
+  
+  .item5 {
+    grid-row: 2;
+    grid-column: 4;
+    height: 14.4rem;
+
+  }
+.item1{
+    background-image: url("https://img.freepik.com/free-photo/woman-with-shopping-bags-studio-yellow-background-isolated_1303-14294.jpg?w=2000");
+    background-size: cover;
+}
+.item2{
+    background-image: url("https://previews.123rf.com/images/jolopes/jolopes1602/jolopes160200009/52963762-trendy-young-women-shopping-in-the-city.jpg");
+    background-size: cover;
+
+}
+.item3{
+    background-image: url("https://nypost.com/wp-content/uploads/sites/2/2018/06/men-shopping-masculine.jpg?quality=75&strip=all");
+    background-size: cover;
+
+}
+.item4{
+  background-image: url("http://www.thedaycollections.com/wp-content/uploads/2017/07/boy-kids-fashion.png");
+  background-size: cover;
+
+}
+.item5{
+  background-image: url("https://karltayloreducation.com/wp-content/uploads/2020/09/Fashion-accessories-unretouched.jpg");
+  background-size: cover;
+}
+.slick-1{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/men-01.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:90%;
+}
+.slick-2{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/men-02.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-3{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/men-03.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-4{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/men-01.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-5{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/men-02.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-6{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/men-03.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-1:hover .bttn {
+  bottom:55px;
+}
+.slick-2:hover .bttn {
+  bottom:55px;
+}
+.slick-3:hover .bttn {
+  bottom:55px;
+}
+.slick-4:hover .bttn {
+  bottom:55px;
+}
+.slick-5:hover .bttn {
+  bottom:55px;
+}
+.slick-6:hover .bttn {
+  bottom:55px;
+}
+
+.slick-w-1{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/women-01.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:90%;
+}
+.slick-w-2{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/women-02.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-w-3{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/women-03.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-w-4{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/women-01.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-w-5{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/women-02.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-w-6{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/women-03.jpg");
+  background-size: cover;
+  height: 25rem;
+}
+.slick-w-1:hover .bttn {
+  bottom:55px;
+}
+.slick-w-2:hover .bttn {
+  bottom:55px;
+}
+.slick-w-3:hover .bttn {
+  bottom:55px;
+}
+.slick-w-4:hover .bttn {
+  bottom:55px;
+}
+.slick-w-5:hover .bttn {
+  bottom:55px;
+}
+.slick-w-6:hover .bttn {
+  bottom:55px;
+}
+
+
+.slick-k-1{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/kid-01.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:100%;
+
+}
+.slick-k-2{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/kid-02.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:100%;
+
+}
+.slick-k-3{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/kid-03.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:100%;
+
+}
+.slick-k-4{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/kid-01.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:100%;
+
+}
+.slick-k-5{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/kid-02.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:100%;
+
+}
+.slick-k-6{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/kid-03.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:100%;
+
+}
+.slick-k-6{
+  background-image: url("https://themewagon.github.io/hexashop/assets/images/kid-03.jpg");
+  background-size: cover;
+  height: 25rem;
+  width:90%;
+}
+.bttn > button{
+  border-style: none;
+  margin-left: 40px;
+}
+.bttn{
+  bottom: -160px;
+  transition:  1s;
+  left: 0px;
+  right: 0px;
+  margin: -26px;
+
+
+}
+.slick-k-1:hover .bttn {
+  bottom:55px;
+}
+.slick-k-2:hover .bttn {
+  bottom:55px;
+}
+.slick-k-3:hover .bttn {
+  bottom:55px;
+}
+.slick-k-4:hover .bttn {
+  bottom:55px;
+}
+.slick-k-5:hover .bttn {
+  bottom:55px;
+}
+.slick-k-6:hover .bttn {
+  bottom:55px;
+}
+
+
+.box{
+ 
+  bottom: 10px;
+  left: 40px;
+  right: 40px;
+  top: 40px;
+  margin: auto;
+  background-color: #1d21248a;
+  opacity: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+   
+  
+}
+
+ 
+.hover-effect:hover .box {
+   opacity: 1;
+   transition: 1s;
+  
+}
+
+.box-content{
+ 
+  bottom: 10px;
+  left: 40px;
+  right: 40px;
+  top: 10px;
+  margin: auto;
+  background-color: #1d21248a;
+  opacity: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+   
+  
+}
+
+ 
+.hover-content:hover .box-content {
+   opacity: 1;
+   transition: 1s;
+  
+}
+
+
+
+#kk{
+  font-size: 14px;
+    color: #aaaaaa;
+    font-weight: 500;
+}
+#ll{
+  font-size: larger;
+}
+
+.button-1 {
+  background-color: transparent;
+  border: 1px solid black;
+  padding: 12px 25px;
+  width: 10rem;
+  height: 3rem;
+  margin-top: 2rem;
+  border-radius: 50px;
+  transition: all .15s ease-in-out;
+  color: #00d7c3;
+}
+.button-1:hover {
+  box-shadow: 0 0 10px 0 #0d0e0e inset, 0 0 20px 2px #00d7c3;
+  border: 3px solid #00d7c3;
+}
+
+#butt{
+  text-decoration: none;
+  color: black;
+
+}
+
+.loca{
+  font-size: 16px;
+}
+
+/* .L{
+  width: 17rem;
+  height: 2rem;
+} */
+.footer{
+  color: white;
+}
+.btn{
+  height: 2rem; 
+  height: 2rem;
+  background-color: black;
+  color: white;
+}
+.btn:hover{
+  background-color: white;
+  border: 1px solid black;
+  color: black;
+}
+img{
+  height: 100%;
+  width: 100%;
+}
+.img-1:hover{
+  background: black;
+}
+
+
+/* Media Query  */
+  
+@media only screen and (max-width: 790px) {
+  .footer {
+    height: 22rem;
+  }
+  
+    
+
+
+} 
+
+ @media only screen and (max-width: 767px) {
+  .footer {
+    height: 37rem;
+  }
+ 
+} 
+@media only screen and (max-width: 300px) {
+  .footer {
+    height: 42rem;
+  }
+ 
+}
+@media only screen and (max-width: 768px) {
+  .item {
+background-size:cover;
+background-position: center;
+background-position-y: top;
+
+  }
+ 
+}
+
+@media only screen and (max-width: 480px) {
+  .bttn {
+display: flex;
+flex-direction: row;
+margin: auto;
+position: absolute;
+right: 0px;
+left: 0px;
+justify-content: center;
+
+  }
+  .bttn>button{
+    margin-left: 20px;
+  }
+ 
+}
+@media only screen and (max-width: 768px) {
+  .bttn {
+    margin:auto ;
+    display: flex;
+    justify-content: center;
+    right: 0px;
+    left: 0px;
+
+}
+.bttn>button{
+  margin-left: 20px;
+}
+ 
+}
+
+
+@media only screen and (max-width: 680px) {
+  .item1 {
+    grid-row: 1;
+    height: 50vh;
+    grid-column: 1/span 2;
+    background-position: center;
+  }
+  .item2{
+    grid-row: 2;
+    grid-column: 1/span 2;
+    height: 50vh;
+    background-position: center;
+  }
+  .item3{
+    grid-row: 3;
+    grid-column: 1/span 2;
+    height: 50vh;
+    background-position: center;
+  }
+  .item4{
+    grid-row: 4;
+    grid-column: 1/span 2;
+    height: 50vh;
+    background-position: center;
+    background-position-y: 2px;
+  }
+  .item5{
+    grid-row: 5;
+    grid-column: 1/span 2;
+    height: 50vh;
+  }
+ 
+}  
+
+@media only screen and (max-width: 900px){
+  .item1{
+    background-position-x: center;
+    background-position: center;
+  }
+  .item2{
+    background-position: center;
+    background-position-x: center;
+  }.item3{
+    background-position-x: -60px;
+
+    
+  }.item4{
+    background-position-x: center;
+  }.item5{
+    background-position-x: center;
+  }
+}
+
+@media only screen and (max-width: 768px){
+  .child{
+ margin-top: 2rem;
+  }
+
+}
